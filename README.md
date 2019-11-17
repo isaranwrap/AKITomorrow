@@ -10,4 +10,4 @@ https://medicine.yale.edu/intmed/patr/projects/imminentaki/
 This contains the code to verify the risk scores of each patient in a given dataset (N = 2850) based on a Logistic Regression model with 12 variables. It is written in a google colab notebook, in Python, and all the patient information is stripped for patient confidentiality/HIPAA compliance purposes. 
 
 
-Code for AKI Tomorrow correct alert verification, working with Yu Yamamoto @ Yale University, Dr. Francis Perry Wilson's lab
+Code for AKI Tomorrow correct alert verification, working with Yu Yamamoto @ Yale University, under the supervision of Dr. Francis Perry Wilson at the Program of Applied Translational Research.  
