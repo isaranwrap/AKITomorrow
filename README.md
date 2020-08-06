@@ -2,7 +2,7 @@
 
 
 
-Acute Kidney Injury (AKI) is a sudden onset of kidney failure/damage marked by an increase in the creatinine levels (amongst other biomarkers) of the patient . AKI Tomorrow is a pilot study which attempts to predict which patients will develop AKI in the next 24 hours. For each patient, a risk-score is generated of their likelyhood of developing AKI; if the patient is above  a certain risk-score they will be alerted. 
+Acute Kidney Injury (AKI) is a sudden onset of kidney failure/damage marked by an increase in the creatinine levels (amongst other biomarkers) of the patient. AKI Tomorrow is a pilot study which attempts to predict which patients will develop AKI in the next 24 hours. For each patient, a risk-score is generated of their likelyhood of developing AKI; if the patient is above  a certain risk-score they will be alerted. 
 
 More information can be found at this website:
 https://medicine.yale.edu/intmed/patr/projects/imminentaki/
